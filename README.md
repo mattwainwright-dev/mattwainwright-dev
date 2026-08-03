@@ -14,7 +14,7 @@ I’m building skills that cannot be taken from me, learning to approach challen
 
 ## Current Vision: Pulse
 
-<img src="images/pulse-logo.jpg" alt="Pulse logo" width="350">
+<img src="images/pulse-logo.jpg" alt="Pulse logo" width="350" height="200">
 Pulse is a music-centered community concept created to deepen the relationship between people, artists, and the music that matters to them.
 
 The goal is not engagement for engagement’s sake. The goal is meaningful connection.

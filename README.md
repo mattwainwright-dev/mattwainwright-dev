@@ -14,7 +14,7 @@ I’m building skills that cannot be taken from me, learning to approach challen
 
 ## Current Vision: Pulse
 
-<img src="images/pulse-logo.jpg" alt="Pulse logo" width="700">
+<img src="images/pulse-logo.jpg" alt="Pulse logo" width="350">
 Pulse is a music-centered community concept created to deepen the relationship between people, artists, and the music that matters to them.
 
 The goal is not engagement for engagement’s sake. The goal is meaningful connection.
@@ -25,7 +25,7 @@ Pulse is grounded in a simple belief: music can help people step away from the n
 
 ## Creative Concept: Once
 
-<img src="images/once-logo.png" alt="Once logo" width="700">
+<img src="images/once-logo.png" alt="Once logo" width="350">
 Once is an urban streetwear and skate-inspired clothing concept shaped around controlled chaos, bold identity, and designs meant to be felt before they are fully understood.
 
 ## What I’m Learning
